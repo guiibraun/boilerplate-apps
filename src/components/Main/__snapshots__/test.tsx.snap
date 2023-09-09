@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+<main
+  class="bg-indigo-950 w-full p-8 text-white min-h-screen flex-col gap-8 flex justify-center items-center"
+>
+  <img
+    alt=""
+    data-nimg="1"
+    decoding="async"
+    height="250"
+    loading="lazy"
+    src="/logo.svg"
+    style="color: transparent;"
+    width="250"
+  />
+  <h1
+    class=" text-6xl font-bold "
+  >
+    React Avançado
+  </h1>
+  <p>
+    Crie aplicações reais com NextJS, Strapi, GraphQL e mais!
+  </p>
+</main>
+`;
